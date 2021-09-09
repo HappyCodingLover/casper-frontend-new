@@ -16,19 +16,19 @@ a {
 	box-sizing: border-box;
 }
 .item {
-  display:block;
-	width: 100px;
+	display: block;
+	width: 50px;
 	overflow: visible;
 	stroke: #ff5b79;
 	stroke-width: 2;
 	stroke-linejoin: round;
 	stroke-linecap: round;
-	transform: translateY(-15rem);
-	-webkit-transform: translateY(-15rem);
-	-moz-transform: translateY(-15rem);
-	-ms-transform: translateY(-15rem);
-	-o-transform: translateY(-15rem);
-	margin: 10rem 0;
+	transform: translateY(-10rem);
+	-webkit-transform: translateY(-10rem);
+	-moz-transform: translateY(-10rem);
+	-ms-transform: translateY(-10rem);
+	-o-transform: translateY(-10rem);
+	margin: 5rem 0;
 }
 @tailwind base;
 @tailwind components;
